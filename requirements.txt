@@ -27,7 +27,7 @@ bitarray==1.6.1
 bkcharts==0.2
 #blas==1.0
 bleach==3.2.1
-blosc==1.20.1
+#blosc==1.20.1
 blpapi==3.16.1
 bokeh==2.2.3
 boto==2.49.0
