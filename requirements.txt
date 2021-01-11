@@ -1,10 +1,10 @@
 
 
 alabaster==0.7.12
-anaconda==2020.11
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
-anaconda-project==0.8.4
+#anaconda==2020.11
+#anaconda-client==1.7.2
+#anaconda-navigator==1.10.0
+#anaconda-project==0.8.4
 argh==0.26.2
 argon2-cffi==20.1.0
 asn1crypto==1.4.0
