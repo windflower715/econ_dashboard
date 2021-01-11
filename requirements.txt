@@ -25,7 +25,7 @@ bcrypt==3.2.0
 beautifulsoup4==4.9.3
 bitarray==1.6.1
 bkcharts==0.2
-blas==1.0
+#blas==1.0
 bleach==3.2.1
 blosc==1.20.1
 blpapi==3.16.1
